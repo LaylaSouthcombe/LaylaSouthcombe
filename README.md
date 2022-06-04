@@ -1,4 +1,4 @@
-[<img src="/Layla-GitHub-intro.gif" alt="Hi, my name is Layla Southcombe Welcome to my GitHub!" title="Hi, my name is Layla Southcombe Welcome to my GitHub!"/>]
+<img src="/Layla-GitHub-intro.gif" alt="Hi, my name is Layla Southcombe Welcome to my GitHub!" title="Hi, my name is Layla Southcombe Welcome to my GitHub!"/>
 
 
 
