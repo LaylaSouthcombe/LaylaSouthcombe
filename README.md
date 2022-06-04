@@ -19,9 +19,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
-## 🔔 My Latest GitHub Metrics
-![Metrics](https://metrics.lecoq.io/LaylaSouthcombe?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
 <a href="https://github.com/LaylaSouthcombe/LaylaSouthcombe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaylaSouthcombe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Layla's GitHub Stats" />
 </a>
