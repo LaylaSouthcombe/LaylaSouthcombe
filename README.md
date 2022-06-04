@@ -2,7 +2,7 @@
 
 ## About Me
 - 💻 Tech Trainee with futureproof
-- 💊 Pharmacology graduate from the University of Bath
+- 💊 Pharmacology graduate of the University of Bath
 - 🌱 Currently learning full-stack development
 - 🎯 In the near future I plan to have a role in tech and contribute to the improvement of human life through technology
 - ⚡ Seek Discomfort
