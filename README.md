@@ -3,7 +3,7 @@
 ## About Me
 - 💻 Tech Trainee with futureproof
 - 💊 Pharmacology graduate from the University of Bath
-- 🌱 I’m currently learning full-stack development
+- 🌱 Currently learning full-stack development
 - 🎯 In the near future I plan to have a role in tech and contribute to the improvement of human life through technology
 - ⚡ Seek Discomfort
 
@@ -21,3 +21,7 @@
 
 ## 🔔 My Latest GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/LaylaSouthcombe?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+<a href="https://github.com/LaylaSouthcombe/LaylaSouthcombe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaylaSouthcombe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Layla's GitHub Stats" />
+</a>
