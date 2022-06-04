@@ -1,6 +1,6 @@
 <img src="/Layla-GitHub-intro.gif" alt="Hi, my name is Layla Southcombe Welcome to my GitHub!" title="Hi, my name is Layla Southcombe Welcome to my GitHub!"/>
 
-##About Me
+## About Me
 - 💻 Tech Trainee with futureproof
 - 💊 Pharmacology graduate from the University of Bath
 - 🌱 I’m currently learning full-stack development
@@ -20,5 +20,4 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 ## 🔔 My Latest GitHub Metrics
-![Metrics](https://metrics.lecoq.io/LaylaSouthcombe?
-template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/LaylaSouthcombe?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
