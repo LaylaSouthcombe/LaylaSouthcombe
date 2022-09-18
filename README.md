@@ -1,10 +1,11 @@
 <img src="/Layla-GitHub-intro.gif" alt="Hi, my name is Layla Southcombe Welcome to my GitHub!" title="Hi, my name is Layla Southcombe Welcome to my GitHub!"/>
 
 ## About Me
-- 💻 Tech Trainee with futureproof
+- 💻 Full-stack developer
+- ✨ Recently completed a 13-week full-stack development bootcamp with futureproof
 - 💊 Pharmacology graduate of the University of Bath
-- 🌱 Currently learning full-stack development
-- 🎯 In the near future I plan to have a role in tech and contribute to the improvement of human life through technology
+- 🌱 Learning C++/C#
+- 🎯 Seeking a role in tech and contribute to life improvements through technology
 - ⚡ Seek Discomfort
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
