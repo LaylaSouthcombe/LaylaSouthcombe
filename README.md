@@ -2,9 +2,10 @@
 
 ## About Me
 - 💻 Full-stack developer
-- ✨ Recently completed a 13-week full-stack development bootcamp with futureproof
+- 💼 Currently working as a Salesforce Developer
+- ✨ Completed a 13-week full-stack development bootcamp with futureproof
 - 💊 Pharmacology graduate of the University of Bath
-- 🌱 Learning C++/C#
+- 🌱 Learning Typescript snd Apex
 - 🎯 Seeking a role in tech and contribute to life improvements through technology
 - ⚡ Seek Discomfort
 
