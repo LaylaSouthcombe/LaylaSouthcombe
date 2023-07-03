@@ -6,7 +6,6 @@
 - ✨ Completed a 13-week full-stack development bootcamp with futureproof
 - 💊 Pharmacology graduate of the University of Bath
 - 🌱 Learning Typescript and Apex
-- 🎯 Seeking a role in tech and contribute to life improvements through technology
 - ⚡ Seek Discomfort
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
