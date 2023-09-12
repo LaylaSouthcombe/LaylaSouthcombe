@@ -2,10 +2,10 @@
 
 ## About Me
 - 💻 Full-stack developer
-- 💼 Currently working as a Salesforce Developer
+- 💼 Currently working as an Associate Developer
 - ✨ Completed a 13-week full-stack development bootcamp with futureproof
 - 💊 Pharmacology graduate of the University of Bath
-- 🌱 Learning Typescript and Apex
+- 🌱 Learning Typescript and Java
 - ⚡ Seek Discomfort
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -26,6 +26,6 @@
 
 <a href="https://www.codewars.com/users/LaylaSouthcombe"><img src="https://www.codewars.com/users/LaylaSouthcombe/badges/large"/></a>
 
-<a href="https://github.com/LaylaSouthcombe/LaylaSouthcombe">
+<!--<a href="https://github.com/LaylaSouthcombe/LaylaSouthcombe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaylaSouthcombe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Layla's GitHub Stats" />
-</a>
+</a>-->
