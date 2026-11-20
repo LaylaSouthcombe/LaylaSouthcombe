@@ -1,25 +1,48 @@
 <img src="/Layla-GitHub-intro.gif" alt="Hi, my name is Layla Southcombe Welcome to my GitHub!" title="Hi, my name is Layla Southcombe Welcome to my GitHub!"/>
 
 ## About Me
-- 💻 Full-Stack developer
-- 📓 C# .NET backend // TypeScript React frontend
-- ✨ Completed a 13-week full-stack development bootcamp with La Fosse Academy
-- 💊 Pharmacology graduate of the University of Bath
-- ⚡ Seek Discomfort
+💻 Full-stack developer building trading operations software
+<br/>
+🛠️ Oracle PL/SQL, C# .NET, and React with TypeScript
+<br/>
+🚢 3 years in commodity trading, covering post-trade physical operations and chartering apps (vessel vetting, voyage operations, emissions/CII, and claims)
+<br/>
+💊 MSc Pharmacology, University of Bath
+<br/>
+🔍 Open to new roles in commodity trading tech
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Backend**
+
+![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flatlogoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Hot Chocolate](https://img.shields.io/badge/Hot_Chocolate-F40010?style=flat&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
-![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
+**Testing**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claudecode&logoColor=white)
+<br/>
+<br/>
 <a href="https://www.codewars.com/users/LaylaSouthcombe"><img src="https://www.codewars.com/users/LaylaSouthcombe/badges/large"/></a>
 
 <!--<a href="https://github.com/LaylaSouthcombe/LaylaSouthcombe">
